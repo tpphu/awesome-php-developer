@@ -18,7 +18,7 @@
 ### Card
 * [Rotate Card](http://demos.creative-tim.com/rotating-card)
 
-## Philosiphy
+## Philosophy & Idea & Inspiration
 
 ### ASP.Net
 
