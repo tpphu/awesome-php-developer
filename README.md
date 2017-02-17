@@ -17,3 +17,9 @@
 
 ### Card
 * [Rotate Card](http://demos.creative-tim.com/rotating-card)
+
+## Philosiphy
+
+### ASP.Net
+
+* [Intergate Bootstrap](https://docs.microsoft.com/en-us/aspnet/core/client-side/bootstrap)
