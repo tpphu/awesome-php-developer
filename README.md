@@ -1,4 +1,4 @@
-# awesome-php-developer
+# Awesome Web Developer
 
 ## Installation
 
