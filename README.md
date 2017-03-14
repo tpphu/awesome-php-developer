@@ -17,8 +17,7 @@
 
 ### Tools
 
-* [Sketchapp](https://www.sketchapp.com/)
-
+* [Sketchapp](https://www.sketchapp.com/) with tuts here: [Sketch App Tutorials - Series Introduction](https://www.youtube.com/watch?v=AV2OkzIGykA&list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS)
 ### Card
 * [Rotate Card](http://demos.creative-tim.com/rotating-card)
 
